@@ -6,3 +6,5 @@ echo "Hello Git!";
 
 
 Диплом Якоши
+
+Branch master
