@@ -4,6 +4,7 @@ Heloo hello
 =======
 Figase
 Figase
+New message
 >>>>>>> master
 
 
