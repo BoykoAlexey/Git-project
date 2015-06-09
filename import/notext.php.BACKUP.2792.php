@@ -1,10 +1,11 @@
 echo "Hello Git!";
-Heloo hello
+авпвапп
+вапвапвап
 
 
 
 
-Diplom Jakoshi
+Диплом Якоши
 
 <<<<<<< HEAD
 Hello new branch
