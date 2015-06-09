@@ -1,10 +1,10 @@
 echo "Hello Git!";
-авпвапп
-вапвапвап
+Figase
+Figase
 
 
 
 
-Диплом Якоши
+Figase
 
 Branch master
